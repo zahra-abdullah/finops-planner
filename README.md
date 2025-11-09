@@ -1,2 +1,1 @@
-# finops-planner
-agentic cloud FinOps Planner - WAI hackathon project
+# Base44 App
